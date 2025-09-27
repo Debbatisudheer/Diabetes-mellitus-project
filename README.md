@@ -66,6 +66,12 @@ The goal of this project is to predict diabetes in patients using health-related
 10. **Save Model and Scaler** – using joblib.
 11. **Streamlit App** – input form, prediction, and visualization.
 
+### Workflow Diagram
+The workflow of the Diabetes Prediction Project is illustrated below:
+
+![Workflow Diagram](workflow.png)
+
+
 ---
 
 ## Machine Learning Models
