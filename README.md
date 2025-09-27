@@ -106,7 +106,7 @@ The goal of this project is to predict diabetes in patients using health-related
 
 **Example Screenshot:**  
 <!-- replace with actual screenshot -->
-![Streamlit Dashboard Example](https://i.imgur.com/your_screenshot.png)
+![Streamlit Dashboard Example](https://diabetes-mellitus-project-bnz5anrpsnlumh4tlxhvg3.streamlit.app/)
 
 ---
 
